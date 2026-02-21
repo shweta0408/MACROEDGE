@@ -1,13 +1,10 @@
 # 📊 MacroEdge — Portfolio Intelligence System
 ### Macro-Economic Driven Portfolio Recommendation System
 
-> Built as a demo project for BlackRock Analytics & Data Science Application
-
 ---
 
 ## 🚀 Live Demo
-After deployment, your app will be at:
-`https://your-name-macroedge.streamlit.app`
+`https://macroedge-by-shweta.streamlit.app/`
 
 ---
 
