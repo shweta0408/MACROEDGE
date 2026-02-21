@@ -114,3 +114,7 @@ This project demonstrates:
 - Real-time data engineering (FRED API)
 - Full-stack data product development
 - Clear communication of quantitative outputs
+
+## Connect Me!
+[Linkedin](https://www.linkedin.com/in/shweta-mishra-4777681a4)
+[Github](https://github.com/shweta0408)
